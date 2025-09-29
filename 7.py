@@ -10,6 +10,6 @@ factor: float = 48/aantal_koekjes
 print("De hoeveelheid gram suiker dat je nodig hebt is:", (250/ factor))
 print("De hoeveelheid gram boter dat je nodig hebt is:", (200/ factor))
 print("De hoeveelheid eieren dat je nodig hebt is:", (4/ factor))
-print("De hoeveelheid gram bloem dat je nodig hebt is:", (300/ factor)
+print("De hoeveelheid gram bloem dat je nodig hebt is:", (300/ factor))
 
 # er werd niets gezegd over afrondingen en zo
