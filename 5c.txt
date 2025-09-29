@@ -1,0 +1,1 @@
+Het verschil tussen 5a en 5b is dat ze dus als float of als int uitgereken en geprint worden
