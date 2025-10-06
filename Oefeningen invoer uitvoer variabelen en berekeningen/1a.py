@@ -1,0 +1,1 @@
+print("KU Leuven Campus Brugge bevindt zich in de Spoorwegstraat op nummer 12")
